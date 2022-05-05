@@ -6,3 +6,6 @@ because for the moment I’m enjoying the freedom to build this record of my own
 without the texts being duplicated elsewhere.
 
 But feel free to borrow from the CSS and Makefile under the MIT License!
+
+
+More theory referrence: https://www.tutorialspoint.com/python_design_patterns/index.htm
